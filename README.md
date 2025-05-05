@@ -14,6 +14,7 @@ All of this is presented in a clear and engaging interface.
 The code for the ESP32 and sensor setup is in ESP32_Code.ino
 Follow the setup instructions for your ESP32, instructions for the one detailed in my report can be found here: 
 https://wiki.dfrobot.com/FireBeetle_ESP32_IOT_Microcontroller(V3.0)__Supports_Wi-Fi_&_Bluetooth__SKU__DFR0478
+
 Simply upload the code to the ESP32 from the arduino IDE and then connect the esp32 to your sensors. Make sure to upload the code before connecting the sensors.
 
 The code for the mobile application is contained in the zip file.
